@@ -1,5 +1,83 @@
 {
     "home": {
-        "greetings": "Hello World"
+        "header": {
+            "shipping": "Shipping",
+            "tracking": "Tracking",
+            "support": "Support",
+            "account": "Account"
+        },
+        "body": {
+            "hero": {
+                "title": "Tracking",
+                "description": "Our tracking tools give you control over your shipments and help you stay informed so you can ship with confidence."
+            },
+            "tracking_info": {
+                "title": "Track the way you like it",
+                "description": "Do you need the status of your shipment or proof of delivery? Enter your tracking number or reference number below."
+            },
+            "tracking_options": [
+                {
+                    "label": "Tracking number",
+                    "value": "tracking-number"
+                },
+                {
+                    "label": "Track by reference",
+                    "value": "reference-track"
+                },
+                {
+                    "label": "Get proof of delivery",
+                    "value": "delivery-proof"
+                }
+            ],
+            "tracking_options_info": [
+                {
+                    "title": "Advanced Tracking",
+                    "description": "For a detailed tracking experience, log in to quickly and conveniently access the information you need. Get the status of your shipments by filtering by date range or zip code. No need to enter a tracking or reference number.",
+                    "image": "/images/Advance-sm.jpg"
+                },
+                {
+                    "title": "Track by reference",
+                    "description": "Receive status updates regarding your package without having to log in. Track with your personalized reference number.",
+                    "image": "/images/Referencia-sm.jpg"
+                },
+                {
+                    "title": "Track by number",
+                    "description": "Track your local shipments instantly with a single button click. No need to login. Use your tracking number to access the latest package status, delivery routes, and estimated delivery times.",
+                    "image": "/images/Number-sm.jpg"
+                }
+            ],
+            "company_info": [
+                {
+                    "title": "Company information",
+                    "options": [
+                        "About FedEx",
+                        "FedEx and ecology",
+                        "Alert to fraud",
+                        "Careers",
+                        "International Calendar",
+                        "Terms and Conditions",
+                        "Rules"
+                    ]
+                },
+                {
+                    "title": "Customer help",
+                    "options": [
+                        "Write to FedEx",
+                        "Tools",
+                        "Information on fuel surcharge",
+                        "FedEx Mobile",
+                        "Notice of Privacy",
+                        "Prohibited Items"
+                    ]
+                }
+            ],
+            "language": "Language"
+        },
+        "footer": {
+            "social_cta": "Follow Fedex",
+            "site_map": "Site Map",
+            "terms_and_conditions": "Terms and conditions",
+            "privacy": "Privacy notice"
+        }
     }
 }
