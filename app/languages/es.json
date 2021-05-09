@@ -1,0 +1,83 @@
+{
+    "home": {
+        "header": {
+            "shipping": "Envios",
+            "tracking": "Rastreo",
+            "support": "Soporte",
+            "account": "Cuenta"
+        },
+        "body": {
+            "hero": {
+                "title": "Rastreo",
+                "description": "Nuestras herramientas de rastreo te otorgan control sobre tus envíos y te ayudan a mantenerte informado para que puedas realizar envíos con confianza."
+            },
+            "tracking_info": {
+                "title": "Rastrea de la manera que más te guste",
+                "description": "¿Necesitas el estado de tu envío o una prueba de entrega? Ingresa tu número de rastreo o número de referencia abajo."
+            },
+            "tracking_options": [
+                {
+                    "label": "Número de rastreo",
+                    "value": "tracking-number"
+                },
+                {
+                    "label": "Rastrear por referencia",
+                    "value": "reference-track"
+                },
+                {
+                    "label": "Obtenga la prueba de entrega",
+                    "value": "delivery-proof"
+                }
+            ],
+            "tracking_options_info": [
+                {
+                    "title": "Rastreo Anvanzado",
+                    "description": "Para gozar de una experiencia de rastreo detallada, inicia sesión para acceder de manera práctica y rápida a la información que necesitas. Obtén el estado de tus envíos filtrando por rango de fechas o código postal. No es necesario ingresar un número de rastreo o referencia.",
+                    "image": "/images/Advance-sm.jpg"
+                },
+                {
+                    "title": "Rastrea por referencia",
+                    "description": "Recibe actualizaciones de estado en relación con tu paquete sin tener que iniciar sesión. Realiza un rastreo con tu número de referencia personalizado.",
+                    "image": "/images/Referencia-sm.jpg"
+                },
+                {
+                    "title": "Rastrea por número",
+                    "description": "Realiza un rastreo de tus envíos locales al instante haciendo clic con un solo botón. No es necesario iniciar sesión. Utiliza tu número de rastreo para acceder al estado más reciente del paquete, las rutas de entrega y los tiempos de entrega estimada.",
+                    "image": "/images/Number-sm.jpg"
+                }
+            ],
+            "company_info": [
+                {
+                    "title": "Información de la compañía",
+                    "options": [
+                        "Acerca de FedEx", 
+                        "FedEx y la ecología",
+                        "Alerta al fraud",
+                        "Carreras",
+                        "Calendario Internacional",
+                        "Terminos y condiciones",
+                        "Reglas"
+                    ]
+                },
+                {
+                    "title": "Ayuda al cliente",
+                    "options": [
+                        "Escribir a FedEx",
+                        "Herramientas",
+                        "Información sobre recargo de combustible",
+                        "FedEx Móvil",
+                        "Aviso de privacidad",
+                        "Artículos prohibidos"
+                    ]
+                }
+            ],
+            "language": "Idioma"
+        },
+        "footer": {
+            "social_cta": "Seguir a Fedx",
+            "site_map": "Mapa del Sitio",
+            "terms_and_conditions": "Terminos y condiciones",
+            "privacy": "Aviso de privacidad"
+        }
+    }
+}
